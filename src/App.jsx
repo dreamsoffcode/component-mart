@@ -19,7 +19,7 @@ function App() {
       <div onClick={()=>navigate('/assignment2')}>Background Changer</div>
       <div onClick={()=>navigate('/assignment3')}>Assignment-3</div>
       <div onClick={()=>navigate('/assignment4')}>Para Generator</div>
-      <div onClick={()=>navigate('/assignment5')}>Assignment-5</div>
+      <div onClick={()=>navigate('/assignment5')}>Github Card</div>
       <div onClick={()=>navigate('/assignment6')}>Assignment-6</div>
       <div onClick={()=>navigate('/assignment7')}>Assignment-7</div>
     </div>
