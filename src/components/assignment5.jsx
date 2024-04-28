@@ -74,7 +74,7 @@ function InputUsername(){
 function GithubCard(){
 
     const {data, _error} = useRecoilValue(githubSelector)
-
+    console.log(data)
     
     if(_error){
         return <div style={{
