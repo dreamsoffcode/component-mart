@@ -20,7 +20,7 @@ function App() {
       <div onClick={()=>navigate('/assignment3')}>Custom Render</div>
       <div onClick={()=>navigate('/assignment4')}>Para Generator</div>
       <div onClick={()=>navigate('/assignment5')}>Github Card</div>
-      <div onClick={()=>navigate('/assignment6')}>Assignment-6</div>
+      <div onClick={()=>navigate('/assignment6')}>OTP Login</div>
       <div onClick={()=>navigate('/assignment7')}>Assignment-7</div>
     </div>
   )
