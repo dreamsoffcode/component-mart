@@ -12,7 +12,7 @@ export default function Assignment7(){
       justifyContent: "center",
       alignItems: "center",
       flexDirection: 'column',
-      backgroundImage: "url('../../images.jfif')",
+      backgroundImage: "url('../../static/images/images.jfif')",
       backgroundRepeat:"no-repeat",
       backgroundSize: "cover",
         // backgroundColor: "blue"
