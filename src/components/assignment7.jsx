@@ -87,7 +87,7 @@ function BirthdayCards({setScreen}){
         cursor: "pointer",
     }}
     onClick={()=>setScreen(1)}
-    ><img width="20px" src="../../previous.png"></img></button>
+    ><img width="20px" src="../../static/images/previous.png"></img></button>
     <BirthdayCard1 />
     <BirthdayCard2 />
   </div>)

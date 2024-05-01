@@ -41,7 +41,7 @@ function Profile(){
   }
   return (
     <div style={cardStyle}>
-      <img style={imgStyle} src="../../profile_background.jpg"></img>          <img style={picStyle} src="../../profile_photo.jpg"></img>
+      <img style={imgStyle} src="../../static/images/profile_background.jpg"></img>          <img style={picStyle} src="../../static/images/profile_photo.jpg"></img>
       <ProfileData name={"Rita Correia"} age="32" city={"London"}/>
     </div>
   )
